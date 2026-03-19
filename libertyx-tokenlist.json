@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-03-16T14:21:37.512Z",
+    "timestamp": "2026-03-19T14:21:37.512Z",
     "version": {
         "major": 1,
         "minor": 0,
@@ -2787,7 +2787,7 @@
             "chainId": 369,
             "name": "USDC from pump.tires",
             "address": "0x080f7A005834c84240F25B2Df4AED8236bd57812",
-            "symbol": "USDC",
+            "symbol": "PumpUSDC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/libertyswap-finance/app-tokens/main/token-logo/0x080f7A005834c84240F25B2Df4AED8236bd57812.png"
         },
