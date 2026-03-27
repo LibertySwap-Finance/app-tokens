@@ -3985,16 +3985,16 @@
         }
     ],
     "logoURI": "https://raw.githubusercontent.com/libertyswap-finance/app-tokens/main/libertyx-icon.svg"
+},
+{
+  "chainId": 369,
+  "address": "0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3",
+  "name": "Dogelonmars",
+  "symbol": "ELON",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/BusyTimeKeeper/app-tokens/main/Elon.png"
 }
-
-
-
-
-
-
-
-
-
+]
 
 
 
