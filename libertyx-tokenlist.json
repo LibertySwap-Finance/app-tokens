@@ -3982,7 +3982,15 @@
             "symbol": "PRVX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/libertyswap-finance/app-tokens/main/token-logo/0xF6f8Db0aBa00007681F8fAF16A0FDa1c9B030b11.png"
-        }
+        },
+        {
+  "chainId": 369,
+  "address": "0xAe69Da9c588da23860256a24d5084fF5f859F6c1",
+  "name": "Bulgarian LEV",
+  "symbol": "BGN",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/LibertySwap-Finance/app-tokens/main/token-logo/0xAe69Da9c588da23860256a24d5084fF5f859F6c1.png"
+}
     ],
     "logoURI": "https://raw.githubusercontent.com/libertyswap-finance/app-tokens/main/libertyx-icon.svg"
 }
