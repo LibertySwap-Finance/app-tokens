@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-07-14T08:48:24.085Z",
+    "timestamp": "2026-08-01T01:27:29.286Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -4222,6 +4222,14 @@
             "symbol": "DHEART",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x1A7A8f688f31d196F0482EcB38687bE915ECEAa4.png"
+        },
+        {
+            "chainId": 369,
+            "address": "0x33Fb2F87615827Ac878609851747ce04e0d48C44",
+            "name": "TitanX Spartans from Ethereum",
+            "symbol": "TXS",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x33Fb2F87615827Ac878609851747ce04e0d48C44.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
