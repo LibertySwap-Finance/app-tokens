@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-08-01T01:27:29.286Z",
+    "timestamp": "2026-08-01T01:31:34.629Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -4230,6 +4230,14 @@
             "symbol": "TXS",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x33Fb2F87615827Ac878609851747ce04e0d48C44.png"
+        },
+        {
+            "chainId": 369,
+            "address": "0xB41cEb0d0316e6c330b2Dd982779a4030C8FeDeB",
+            "name": "Fat Unsecured Ponzi Assets",
+            "symbol": "FUPA",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xB41cEb0d0316e6c330b2Dd982779a4030C8FeDeB.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
