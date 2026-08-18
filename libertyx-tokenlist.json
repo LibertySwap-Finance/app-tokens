@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-08-18T04:21:27.761Z",
+    "timestamp": "2026-08-18T04:22:35.798Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -3441,7 +3441,7 @@
         },
         {
             "chainId": 369,
-            "name": "Quattro Ricos Son",
+            "name": "Quattro Rico's Son",
             "address": "0xab24834379a816Bde64a2A54df24D73aC0630dD5",
             "symbol": "T4MC",
             "decimals": 18,
