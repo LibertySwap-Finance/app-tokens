@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-08-18T04:24:26.762Z",
+    "timestamp": "2026-08-31T01:43:34.308Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -4246,6 +4246,14 @@
             "symbol": "GOTTI",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x298EEB6c6BefBafA92111f7B650f072715eF36C7.png"
+        },
+        {
+            "chainId": 369,
+            "address": "0xA0AD1c79EdDDa5a9022a0A6976bEFC7300Bd6f72",
+            "name": "HEX CAT",
+            "symbol": "KISHKA",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xA0AD1c79EdDDa5a9022a0A6976bEFC7300Bd6f72.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
