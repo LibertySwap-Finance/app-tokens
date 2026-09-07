@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-09-04T03:12:22.259Z",
+    "timestamp": "2026-09-07T08:33:51.594Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -4262,6 +4262,14 @@
             "symbol": "Extractor",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xd21d5Dd79F7fDD54b24bA8e1ec74aAE4Cc597650.png"
+        },
+        {
+            "chainId": 369,
+            "address": "0xeEA13b0bb031b843CeF5d715A6E49b332b7D6211",
+            "name": "LIBERTITS",
+            "symbol": "LIBERTITS",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xeEA13b0bb031b843CeF5d715A6E49b332b7D6211.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
