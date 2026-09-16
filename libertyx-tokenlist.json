@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-09-07T08:33:51.594Z",
+    "timestamp": "2026-09-16T13:08:11.319Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -4270,6 +4270,14 @@
             "symbol": "LIBERTITS",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xeEA13b0bb031b843CeF5d715A6E49b332b7D6211.png"
+        },
+        {
+            "chainId": 369,
+            "address": "0x84b7e8de3FeA02c93184Fa2781c2fC654E627fE8",
+            "name": "Clarity Act",
+            "symbol": "CLARITY",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x84b7e8de3FeA02c93184Fa2781c2fC654E627fE8.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
