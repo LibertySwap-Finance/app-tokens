@@ -9,6 +9,10 @@
   "list": [
     "NATIVE",
     {
+      "address": "0xf4e3cefa53051c55be2496bc53a420a092914406",
+      "label": "LBS"
+    },
+    {
       "address": "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
       "label": "PLSX"
     },
