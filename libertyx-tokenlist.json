@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-09-18T14:45:27.967Z",
+    "timestamp": "2026-09-22T17:50:25.486Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -4286,6 +4286,14 @@
             "symbol": "CLARITY",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x84b7e8de3FeA02c93184Fa2781c2fC654E627fE8.png"
+        },
+        {
+            "chainId": 369,
+            "address": "0xC1e176A68670b824776643ea2f763D076f04A53d",
+            "name": "Richard Heart",
+            "symbol": "RH",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xC1e176A68670b824776643ea2f763D076f04A53d.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
