@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-09-22T17:50:25.486Z",
+    "timestamp": "2026-09-23T16:39:54.674Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -4294,6 +4294,14 @@
             "symbol": "RH",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xC1e176A68670b824776643ea2f763D076f04A53d.png"
+        },
+        {
+            "chainId": 369,
+            "address": "0x8d7eF9e82aDcd5bf38358e3F58e54Bc1cB845974",
+            "name": "The Slasher",
+            "symbol": "SLASHER",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x8d7eF9e82aDcd5bf38358e3F58e54Bc1cB845974.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
