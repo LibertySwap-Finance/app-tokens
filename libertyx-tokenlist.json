@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-10-05T07:49:34.259Z",
+    "timestamp": "2026-10-20T21:29:11.638Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -5935,6 +5935,14 @@
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xA737EA6FF4094FeDEe5a762CA34116207f34B4c6.png",
             "decimals": 18,
             "isNative": false
+        },
+        {
+            "chainId": 369,
+            "address": "0xfC5936e6987227D21B26E927a5d9ea168F1a0262",
+            "name": "FREE RICHARD HEART",
+            "symbol": "FREE RH",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xfC5936e6987227D21B26E927a5d9ea168F1a0262.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
