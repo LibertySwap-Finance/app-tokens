@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-10-28T01:37:25.669Z",
+    "timestamp": "2026-10-28T01:38:28.699Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -5943,6 +5943,14 @@
             "symbol": "FREE RH",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xfC5936e6987227D21B26E927a5d9ea168F1a0262.png"
+        },
+        {
+            "chainId": 369,
+            "address": "0x859e3838a4020B9E6ddbbd10980c84B46b642b3E",
+            "name": "Fun Raisin",
+            "symbol": "RAiSiN",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x859e3838a4020B9E6ddbbd10980c84B46b642b3E.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
