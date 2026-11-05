@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-10-28T01:38:28.699Z",
+    "timestamp": "2026-11-05T02:06:34.738Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -5951,6 +5951,14 @@
             "symbol": "RAiSiN",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x859e3838a4020B9E6ddbbd10980c84B46b642b3E.png"
+        },
+        {
+            "chainId": 369,
+            "address": "0x757cCA77d1F780b0b955F4fE2B5167cF2799B4D0",
+            "name": "Just a Hex Guy",
+            "symbol": "HEXGUY",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x757cCA77d1F780b0b955F4fE2B5167cF2799B4D0.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
