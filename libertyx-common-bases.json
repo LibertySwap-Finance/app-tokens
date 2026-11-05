@@ -1,16 +1,24 @@
 {
   "name": "LibertyX Common Tokens",
-  "timestamp": "2026-02-24T08:15:30.123Z",
+  "timestamp": "2026-10-22T11:58:37.000Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 13
   },
   "list": [
     "NATIVE",
     {
       "address": "0xf4e3cefa53051c55be2496bc53a420a092914406",
       "label": "LBS"
+    },
+    {
+      "address": "0x1Ac4691e8b308a7E01C1ed9611D198590bf3e18f",
+      "label": "WINTER"
+    },
+    {
+      "address": "0xc10A4Ed9b4042222d69ff0B374eddd47ed90fC1F",
+      "label": "PCOCK"
     },
     {
       "address": "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
@@ -29,6 +37,10 @@
       "label": "eHEX"
     },
     {
+      "address": "0xF6f8Db0aBa00007681F8fAF16A0FDa1c9B030b11",
+      "label": "PRVX"
+    },
+    {
       "address": "0xefD766cCb38EaF1dfd701853BFCe31359239F305",
       "label": "DAI"
     },
@@ -41,32 +53,16 @@
       "label": "USDT"
     },
     {
+      "address": "0xa5B0D537CeBE97f087Dc5FE5732d70719caaEc1D",
+      "label": "hUSDC"
+    },
+    {
       "address": "0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C",
       "label": "WETH"
     },
     {
       "address": "0xb17D901469B9208B17d916112988A3FeD19b5cA1",
       "label": "WBTC"
-    },
-    {
-      "address": "0x0dEEd1486bc52aA0d3E6f8849cEC5adD6598A162",
-      "label": "USDL"
-    },
-    {
-      "address": "0x600136dA8cc6D1Ea07449514604dc4ab7098dB82",
-      "label": "CST"
-    },
-    {
-      "address": "0xa5B0D537CeBE97f087Dc5FE5732d70719caaEc1D",
-      "label": "hUSDC"
-    },
-    {
-      "address": "0xeB6b7932Da20c6D7B3a899D5887d86dfB09A6408",
-      "label": "PXDC"
-    },
-    {
-      "address": "0x1FE0319440A672526916C232EAEe4808254Bdb00",
-      "label": "HEXDC"
     },
     {
       "address": "0x2A06a971fE6ffa002fd242d437E3db2b5cC5B433",
@@ -97,24 +93,16 @@
       "label": "PUMP"
     },
     {
-      "address": "0x8Da17Db850315A34532108f0f5458fc0401525f6",
-      "label": "SOLIDX"
+      "address": "0x0dEEd1486bc52aA0d3E6f8849cEC5adD6598A162",
+      "label": "USDL"
     },
     {
-      "address": "0x4Eb7C1c05087f98Ae617d006F48914eE73fF8D2A",
-      "label": "XGAME"
+      "address": "0xeB6b7932Da20c6D7B3a899D5887d86dfB09A6408",
+      "label": "PXDC"
     },
     {
-      "address": "0x8BDB63033b02C15f113De51EA1C3a96Af9e8ecb5",
-      "label": "AXIS"
-    },
-    {
-      "address": "0x52347C33Cf6Ca8D2cfb864AEc5aA0184C8fd4c9b",
-      "label": "SPARTA"
-    },
-    {
-      "address": "0x0567CA0dE35606E9C260CC2358404B11DE21DB44",
-      "label": "HELGO"
+      "address": "0x1FE0319440A672526916C232EAEe4808254Bdb00",
+      "label": "HEXDC"
     },
     {
       "address": "0x9663c2d75ffd5F4017310405fCe61720aF45B829",
@@ -125,9 +113,20 @@
       "label": "TIME"
     },
     {
-      "address": "0xc10A4Ed9b4042222d69ff0B374eddd47ed90fC1F",
-      "label": "PCOCK"
+      "address": "0x8Da17Db850315A34532108f0f5458fc0401525f6",
+      "label": "SOLIDX"
+    },
+    {
+      "address": "0x4Eb7C1c05087f98Ae617d006F48914eE73fF8D2A",
+      "label": "XGAME"
+    },
+    {
+      "address": "0x1D177CB9EfEEa49A8B97ab1C72785a3A37ABc9Ff",
+      "label": "F㉾D"
+    },
+    {
+      "address": "0x94534EeEe131840b1c0F61847c572228bdfDDE93",
+      "label": "pTGC"
     }
   ]
 }
-
