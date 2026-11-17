@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-05T02:06:34.738Z",
+    "timestamp": "2026-11-17T05:51:58.832Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -5948,6 +5948,14 @@
             "symbol": "HEXGUY",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x757cCA77d1F780b0b955F4fE2B5167cF2799B4D0.png"
+        },
+        {
+            "chainId": 369,
+            "address": "0xA4dB26f930b8Dae7C3f8bA6546484cdD3dc51be0",
+            "name": "PulseChain Cash",
+            "symbol": "CASH",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xA4dB26f930b8Dae7C3f8bA6546484cdD3dc51be0.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
