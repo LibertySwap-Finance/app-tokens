@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-18T21:45:05.001Z",
+    "timestamp": "2026-11-18T21:45:50.385Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6036,6 +6036,14 @@
             "symbol": "LDO",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+            "name": "Basic Attention Token",
+            "symbol": "BAT",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x0D8775F648430679A709E98d2b0Cb6250d2887EF.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
