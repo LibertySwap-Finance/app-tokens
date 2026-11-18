@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-18T21:37:18.388Z",
+    "timestamp": "2026-11-18T21:40:15.914Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -5988,6 +5988,14 @@
             "symbol": "DEGEN",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+            "name": "USD Base Coin",
+            "symbol": "USDbC",
+            "decimals": 6,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
