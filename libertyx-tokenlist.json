@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-18T21:44:05.562Z",
+    "timestamp": "2026-11-18T21:45:05.001Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6028,6 +6028,14 @@
             "symbol": "AAVE",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+            "name": "Lido DAO Token",
+            "symbol": "LDO",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
