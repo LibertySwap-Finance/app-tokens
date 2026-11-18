@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-18T21:28:41.607Z",
+    "timestamp": "2026-11-18T21:36:21.341Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -5964,6 +5964,14 @@
             "symbol": "DAI",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+            "name": "Aerodrome",
+            "symbol": "AERO",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x940181a94A35A4569E4529A3CDfB74e38FD98631.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
