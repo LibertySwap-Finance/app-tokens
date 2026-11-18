@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-18T21:41:21.485Z",
+    "timestamp": "2026-11-18T21:41:42.663Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6012,6 +6012,14 @@
             "symbol": "VIRTUAL",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+            "name": "Base tBTC v2",
+            "symbol": "tBTC",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
