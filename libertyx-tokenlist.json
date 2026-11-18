@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-18T21:41:42.663Z",
+    "timestamp": "2026-11-18T21:44:05.562Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6020,6 +6020,14 @@
             "symbol": "tBTC",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+            "name": "Aave Token",
+            "symbol": "AAVE",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
