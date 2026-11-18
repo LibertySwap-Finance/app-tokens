@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-18T22:03:36.488Z",
+    "timestamp": "2026-11-18T22:10:05.333Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6100,6 +6100,14 @@
             "symbol": "ZRX",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xE41d2489571d322189246DaFA5ebDe1F4699F498.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x111111111117dC0aa78b770fA6A738034120C302",
+            "name": "1INCH Token",
+            "symbol": "1INCH",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x111111111117dC0aa78b770fA6A738034120C302.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
