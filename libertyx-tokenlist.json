@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-18T21:36:57.803Z",
+    "timestamp": "2026-11-18T21:37:18.388Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -5980,6 +5980,14 @@
             "symbol": "cbETH",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+            "name": "Degen",
+            "symbol": "DEGEN",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
