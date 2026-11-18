@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-18T21:56:57.015Z",
+    "timestamp": "2026-11-18T21:57:43.059Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6068,6 +6068,14 @@
             "symbol": "SUSHI",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+            "name": "Graph Token",
+            "symbol": "GRT",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xc944E90C64B2c07662A292be6244BDf05Cda44a7.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
