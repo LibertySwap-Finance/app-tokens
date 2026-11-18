@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-18T21:45:50.385Z",
+    "timestamp": "2026-11-18T21:54:03.099Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6044,6 +6044,14 @@
             "symbol": "BAT",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x0D8775F648430679A709E98d2b0Cb6250d2887EF.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+            "name": "ChainLink Token",
+            "symbol": "LINK",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x514910771AF9Ca656af840dff83E8264EcF986CA.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
