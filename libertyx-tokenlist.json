@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-18T21:57:43.059Z",
+    "timestamp": "2026-11-18T21:58:39.167Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6076,6 +6076,14 @@
             "symbol": "GRT",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xc944E90C64B2c07662A292be6244BDf05Cda44a7.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+            "name": "ApeCoin",
+            "symbol": "APE",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x4d224452801ACEd8B2F0aebE155379bb5D594381.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
