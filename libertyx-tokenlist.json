@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-20T23:34:56.419Z",
+    "timestamp": "2026-11-20T23:35:15.933Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6236,6 +6236,14 @@
             "symbol": "CRO",
             "decimals": 8,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+            "name": "CRV (PoS)",
+            "symbol": "CRV",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x172370d5Cd63279eFa6d502DAB29171933a610AF.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
