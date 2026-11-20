@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-20T23:37:44.014Z",
+    "timestamp": "2026-11-20T23:41:43.652Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6276,6 +6276,14 @@
             "symbol": "MANA",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+            "name": "(PoS) Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
