@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-20T23:42:37.684Z",
+    "timestamp": "2026-11-20T23:43:52.328Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6300,6 +6300,14 @@
             "symbol": "SNX",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
+            "name": "Rocket Pool Protocol",
+            "symbol": "RPL",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xD33526068D116cE69F19A9ee46F0bd304F21A51f.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
