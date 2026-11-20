@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-20T23:43:52.328Z",
+    "timestamp": "2026-11-20T23:48:05.263Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6308,6 +6308,14 @@
             "symbol": "RPL",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xD33526068D116cE69F19A9ee46F0bd304F21A51f.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
+            "name": "Kyber Network Crystal",
+            "symbol": "KNC",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xdd974D5C2e2928deA5F71b9825b8b646686BD200.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
