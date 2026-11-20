@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-20T23:29:14.566Z",
+    "timestamp": "2026-11-20T23:29:25.383Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6156,6 +6156,14 @@
             "symbol": "WBTC",
             "decimals": 8,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+            "name": "SHIBA INU",
+            "symbol": "SHIB",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
