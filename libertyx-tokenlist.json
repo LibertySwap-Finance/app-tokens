@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-20T23:32:26.757Z",
+    "timestamp": "2026-11-20T23:32:47.091Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6204,6 +6204,14 @@
             "symbol": "AXS",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+            "name": "yearn.finance",
+            "symbol": "YFI",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
