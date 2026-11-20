@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-20T23:42:03.467Z",
+    "timestamp": "2026-11-20T23:42:37.684Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6292,6 +6292,14 @@
             "symbol": "LINK",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+            "name": "Synthetix Network Token",
+            "symbol": "SNX",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
