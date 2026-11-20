@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-20T23:55:51.408Z",
+    "timestamp": "2026-11-20T23:59:12.723Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6324,6 +6324,14 @@
             "symbol": "GHST",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+            "name": "Quickswap",
+            "symbol": "QUICK",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x831753DD7087CaC61aB5644b308642cc1c33Dc13.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
