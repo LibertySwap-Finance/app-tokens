@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-20T23:29:01.859Z",
+    "timestamp": "2026-11-20T23:29:14.566Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6148,6 +6148,14 @@
             "symbol": "USDT0",
             "decimals": 6,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xc2132D05D31c914a87C6611C10748AEb04B58e8F.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
