@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-20T23:36:24.934Z",
+    "timestamp": "2026-11-20T23:37:23.546Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6260,6 +6260,14 @@
             "symbol": "ARB",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x912CE59144191C1204E64559FE8253a0e49E6548.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+            "name": "SushiToken (PoS)",
+            "symbol": "SUSHI",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
