@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-20T23:33:38.657Z",
+    "timestamp": "2026-11-20T23:34:44.866Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6220,6 +6220,14 @@
             "symbol": "AAVE",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xD6DF932A45C0f255f85145f286eA0b292B21C90B.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+            "name": "Matic Token",
+            "symbol": "MATIC",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
