@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-20T23:29:25.383Z",
+    "timestamp": "2026-11-20T23:31:09.929Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6164,6 +6164,14 @@
             "symbol": "SHIB",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+            "name": "Ethereum Name Service",
+            "symbol": "ENS",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
