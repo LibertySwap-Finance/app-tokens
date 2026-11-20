@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-20T23:31:48.660Z",
+    "timestamp": "2026-11-20T23:32:08.557Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6188,6 +6188,14 @@
             "symbol": "MANA",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+            "name": "SAND",
+            "symbol": "SAND",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x3845badAde8e6dFF049820680d1F14bD3903a5d0.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
