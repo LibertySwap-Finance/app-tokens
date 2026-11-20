@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-20T23:48:05.263Z",
+    "timestamp": "2026-11-20T23:55:51.408Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6316,6 +6316,14 @@
             "symbol": "KNC",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xdd974D5C2e2928deA5F71b9825b8b646686BD200.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+            "name": "Aavegotchi GHST Token (PoS)",
+            "symbol": "GHST",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
