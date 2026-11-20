@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-20T23:31:09.929Z",
+    "timestamp": "2026-11-20T23:31:28.909Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6172,6 +6172,14 @@
             "symbol": "ENS",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+            "name": "Compound",
+            "symbol": "COMP",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xc00e94Cb662C3520282E6f5717214004A7f26888.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
