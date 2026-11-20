@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-20T23:31:28.909Z",
+    "timestamp": "2026-11-20T23:31:48.660Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6180,6 +6180,14 @@
             "symbol": "COMP",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xc00e94Cb662C3520282E6f5717214004A7f26888.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+            "name": "Decentraland MANA",
+            "symbol": "MANA",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
