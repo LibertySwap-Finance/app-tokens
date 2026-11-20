@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-20T19:19:57.552Z",
+    "timestamp": "2026-11-20T23:28:40.487Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6132,6 +6132,14 @@
             "symbol": "PEPE",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x6982508145454Ce325dDbE47a25d4ec3d2311933.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+            "name": "USD Coin (PoS)",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
