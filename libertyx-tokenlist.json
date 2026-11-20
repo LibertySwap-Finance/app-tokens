@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-20T23:32:47.091Z",
+    "timestamp": "2026-11-20T23:33:38.657Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6212,6 +6212,14 @@
             "symbol": "YFI",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+            "name": "Aave (PoS)",
+            "symbol": "AAVE",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xD6DF932A45C0f255f85145f286eA0b292B21C90B.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
