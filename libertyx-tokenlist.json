@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-21T00:11:36.385Z",
+    "timestamp": "2026-11-21T00:14:06.617Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6372,6 +6372,14 @@
             "symbol": "HEX",
             "decimals": 8,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
