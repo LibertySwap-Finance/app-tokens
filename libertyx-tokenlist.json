@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-21T01:50:44.015Z",
+    "timestamp": "2026-11-21T01:52:48.973Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6572,6 +6572,14 @@
             "symbol": "GNO",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x6810e776880C02933D47DB1b9fc05908e5386b96.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+            "name": "Kyber Network Crystal v2",
+            "symbol": "KNC",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
