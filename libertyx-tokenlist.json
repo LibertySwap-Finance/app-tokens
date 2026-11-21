@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-21T01:15:31.913Z",
+    "timestamp": "2026-11-21T01:18:45.204Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6492,6 +6492,14 @@
             "symbol": "AUDIO",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E",
+            "name": "FLOKI",
+            "symbol": "FLOKI",
+            "decimals": 9,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
