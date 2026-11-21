@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-21T01:24:31.665Z",
+    "timestamp": "2026-11-21T01:24:54.705Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6516,6 +6516,14 @@
             "symbol": "CVX",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
+            "name": "Ankr Network",
+            "symbol": "ANKR",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
