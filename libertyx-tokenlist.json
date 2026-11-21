@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-21T01:31:07.828Z",
+    "timestamp": "2026-11-21T01:31:33.546Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6540,6 +6540,14 @@
             "symbol": "BLUR",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x5283D291DBCF85356A21bA090E6db59121208b44.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+            "name": "DefiPulse Index",
+            "symbol": "DPI",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
