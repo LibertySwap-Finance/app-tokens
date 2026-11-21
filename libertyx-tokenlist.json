@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-21T01:21:39.567Z",
+    "timestamp": "2026-11-21T01:24:31.665Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6508,6 +6508,14 @@
             "symbol": "CHZ",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x3506424F91fD33084466F402d5D97f05F8e3b4AF.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
+            "name": "Convex Token",
+            "symbol": "CVX",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
