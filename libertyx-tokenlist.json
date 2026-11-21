@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-21T00:00:47.479Z",
+    "timestamp": "2026-11-21T00:07:41.220Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6348,6 +6348,14 @@
             "symbol": "LUSD",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+            "name": "QuickSwap",
+            "symbol": "QUICK",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xB5C064F955D8e7F38fE0460C556a72987494eE17.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
