@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-21T01:15:06.182Z",
+    "timestamp": "2026-11-21T01:15:31.913Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6484,6 +6484,14 @@
             "symbol": "SNT",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x744d70FDBE2Ba4CF95131626614a1763DF805B9E.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998",
+            "name": "Audius",
+            "symbol": "AUDIO",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
