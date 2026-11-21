@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-21T00:24:17.176Z",
+    "timestamp": "2026-11-21T00:25:11.610Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6444,6 +6444,14 @@
             "symbol": "DAI",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+            "name": "USD Coin (Arb1)",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
