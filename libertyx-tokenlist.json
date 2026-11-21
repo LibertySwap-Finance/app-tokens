@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-21T00:17:10.057Z",
+    "timestamp": "2026-11-21T00:19:48.279Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6412,6 +6412,14 @@
             "symbol": "BAL",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xba100000625a3754423978a60c9317c58a424e3D.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+            "name": "GMX",
+            "symbol": "GMX",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
