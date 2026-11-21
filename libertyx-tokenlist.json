@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-21T00:08:23.313Z",
+    "timestamp": "2026-11-21T00:08:58.945Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6364,6 +6364,14 @@
             "symbol": "WBTC",
             "decimals": 8,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",
+            "name": "HEX (PoS)",
+            "symbol": "HEX",
+            "decimals": 8,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
