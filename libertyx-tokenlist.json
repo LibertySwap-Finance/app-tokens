@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-21T01:24:54.705Z",
+    "timestamp": "2026-11-21T01:27:23.360Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6524,6 +6524,14 @@
             "symbol": "ANKR",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x58b6A8A3302369DAEc383334672404Ee733aB239",
+            "name": "Livepeer Token",
+            "symbol": "LPT",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x58b6A8A3302369DAEc383334672404Ee733aB239.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
