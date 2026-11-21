@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-21T00:37:01.926Z",
+    "timestamp": "2026-11-21T00:39:31.615Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6460,6 +6460,14 @@
             "symbol": "LINK",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xf97f4df75117a78c1A5a0DBb814Af92458539FB4.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
+            "name": "Uniswap",
+            "symbol": "UNI",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
