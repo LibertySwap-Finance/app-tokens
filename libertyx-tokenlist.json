@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-21T01:41:27.694Z",
+    "timestamp": "2026-11-21T01:50:44.015Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6564,6 +6564,14 @@
             "symbol": "WLD",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x163f8C2467924be0ae7B5347228CABF260318753.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
+            "name": "Gnosis Token",
+            "symbol": "GNO",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x6810e776880C02933D47DB1b9fc05908e5386b96.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
