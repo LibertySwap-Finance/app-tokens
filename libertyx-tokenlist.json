@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-21T00:17:10.057Z",
+    "timestamp": "2026-11-21T00:19:55.524Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6412,6 +6412,14 @@
             "symbol": "BAL",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xba100000625a3754423978a60c9317c58a424e3D.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+            "name": "Wrapped liquid staked Ether 2.0",
+            "symbol": "wstETH",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
