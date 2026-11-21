@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-21T00:15:54.195Z",
+    "timestamp": "2026-11-21T00:16:37.063Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6396,6 +6396,14 @@
             "symbol": "cbETH",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xBe9895146f7AF43049ca1c1AE358B0541Ea49704.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
+            "name": "Ocean Token",
+            "symbol": "OCEAN",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0x967da4048cD07aB37855c090aAF366e4ce1b9F48.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
