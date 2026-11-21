@@ -1,6 +1,6 @@
 {
     "name": "LibertyX Tokens",
-    "timestamp": "2026-11-21T00:39:31.615Z",
+    "timestamp": "2026-11-21T00:46:29.027Z",
     "version": {
         "major": 1,
         "minor": 2,
@@ -6468,6 +6468,14 @@
             "symbol": "UNI",
             "decimals": 18,
             "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0.png"
+        },
+        {
+            "chainId": 369,
+            "address": "0xf40a744B60e15FeBfa63189216212F9a35f5a420",
+            "name": "Dark Horse",
+            "symbol": "DARK",
+            "decimals": 18,
+            "logoURI": "https://cdn.libertyswap.finance/app-tokens/token-logo/0xf40a744B60e15FeBfa63189216212F9a35f5a420.png"
         }
     ],
     "logoURI": "https://cdn.libertyswap.finance/app-tokens/libertyx-icon.svg"
